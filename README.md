@@ -39,3 +39,24 @@ Contributing:
 
 [purnimacha25@gmail.com]
 
+# Screenshot
+
+![Screenshot of overall dashboard](screenshot/Screenshot%202024-04-09%20214408.png)
+![Overall Dashboard](screenshot/Screenshot%202024-04-09%20214408.png)
+![Profit By Month](screenshot/Screenshot%202024-04-09%20214446.png)
+![Sum of Quantity by PaymentMode](screenshot/Screenshot%202024-04-09%20214504.png)
+![Sum of Amount by CustomerName](screenshot/Screenshot%202024-04-09%20214535.png)
+![Sum of Amount by State](screenshot/Screenshot%202024-04-09%20214544.png)
+![Sum of Quantity by Category](screenshot/Screenshot%202024-04-09%20214554.png)
+![Sum of AOV](screenshot/Screenshot%202024-04-09%20214606.png)
+![Sum of Quantity](screenshot/Screenshot%202024-04-09%20214617.png)
+![Sum of Profit](screenshot/Screenshot%202024-04-09%20214635.png)
+![Sum of Amount](screenshot/Screenshot%202024-04-09%20214646.png)
+![Title](screenshot/Screenshot%202024-04-09%20214657.png)
+![States Filter](screenshot/Screenshot%202024-04-09%20214839.png)
+![Quaters](screenshot/Screenshot%202024-04-09%20214853.png)
+
+
+
+
+
