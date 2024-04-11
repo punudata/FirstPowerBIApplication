@@ -39,7 +39,7 @@ Contributing:
 
 [purnimacha25@gmail.com]
 
-# Screenshot
+# Screenshots
 
 ![Screenshot of overall dashboard](screenshot/Screenshot%202024-04-09%20214408.png)
 ![Overall Dashboard](screenshot/Screenshot%202024-04-09%20214408.png)
