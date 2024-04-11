@@ -37,7 +37,7 @@ Contributing:
 
 # Contact:
 
-[purnimacha25@gmail.com]
+[purnimacdy99@gmail.com]
 
 # Screenshots
 
