@@ -30,7 +30,6 @@ If you're using your own data, you'll need to establish a connection between Pow
 
 **Microsoft Power BI Desktop**
 
-[List any additional dependencies or requirements, such as specific data sources]
 Contributing:
 
 **Pull requests are welcome.**
